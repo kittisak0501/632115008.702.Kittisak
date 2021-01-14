@@ -1,3 +1,5 @@
+//Kittisak Kaewbunmuang 632115008
+
 public class NerfGun{
     public int bullet;
     private static int gunID = 0;
